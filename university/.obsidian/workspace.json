@@ -4,18 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "70b4d31adb06b277",
-        "type": "tabs",
+        "id": "0ae1fbff754a72f5",
+        "type": "split",
         "children": [
           {
-            "id": "d58598aa700661b2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "41f9d10f9c580a9f",
+            "type": "tabs",
+            "dimension": 57.94573643410853,
+            "children": [
+              {
+                "id": "473431f67973d884",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "be4ecb05fb8f59a0",
+            "type": "tabs",
+            "dimension": 42.054263565891475,
+            "children": [
+              {
+                "id": "4c24f13c4bb80127",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "D:\\notes\\industry4.0\\university",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 171,
+                        "data": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[32mGabriel@DESKTOP-2NL674D \u001b[35mMINGW64 \u001b[33m/d/notes/industry4.0/university \u001b[36m(main)\r\n\u001b[0m$ ls\r\nUntitled.md\r\n\r\n\u001b[32mGabriel@DESKTOP-2NL674D \u001b[35mMINGW64 \u001b[33m/d/notes/industry4.0/university \u001b[36m(main)\r\n\u001b[0m$ cd ..\r\n\r\n\u001b[32mGabriel@DESKTOP-2NL674D \u001b[35mMINGW64 \u001b[33m/d/notes/industry4.0 \u001b[36m(main)\r\n\u001b[0m$ ls\r\nLICENSE  README.md  university\r\n\r\n\u001b[32mGabriel@DESKTOP-2NL674D \u001b[35mMINGW64 \u001b[33m/d/notes/industry4.0 \u001b[36m(main)\r\n\u001b[0m$ git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\nUntracked files:\u001b[31m    university/Welcome.mdworkspace.jsonsonation.json\u001b[0mry)\r\n  (use \"\u001b[31muniversity/.obsidian/plugins/y-plugins.json\u001b[0mbe committed)\r\n        \u001b[31muniversity/Untitled.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\n\u001b[32mGabriel@DESKTOP-2NL674D \u001b[35mMINGW64 \u001b[33m/d/notes/industry4.0 \u001b[36m(main)\r\n\u001b[0m$\u001b[1Ccd university/\r\n\r\n\u001b[32mGabriel@DESKTOP-2NL674D \u001b[35mMINGW64 \u001b[33m/d/notes/industry4.0/university \u001b[36m(main)\r\n\u001b[0m$\u001b[1Cls\r\nUntitled.md\r\n\r\n\u001b[32mGabriel@DESKTOP-2NL674D \u001b[35mMINGW64 \u001b[33m/d/notes/industry4.0/university \u001b[36m(main)\r\n\u001b[0m$\u001b[1Cgit add .",
+                        "rows": 18
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -44,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "terminal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,12 +191,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "9e28e68c94941aab",
+  "active": "4c24f13c4bb80127",
   "lastOpenFiles": [
-    "Untitled",
-    "Welcome.md"
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Welcome.md",
+    "Untitled"
   ]
 }
